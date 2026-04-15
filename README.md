@@ -22,16 +22,12 @@ Mantenrme aprendiendo constantemente.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
-
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-black?style=flat-square&logo=windows)
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
